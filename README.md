@@ -3,7 +3,7 @@
 
 ### How to use?
 ##### 1.Downlod [Python3](https://www.python.org/downloads/windows/)
-##### 2.```py pip install -r requirements.txt```
+##### 2.```pip install -r requirements.txt```
 ##### 3.edit config.ini
 ##### 4.Start
 
