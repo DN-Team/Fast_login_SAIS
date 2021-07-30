@@ -8,7 +8,7 @@ This is an application that can quickly access the **School Administration Infor
 
 Allow faculty and students to quickly connect by opening the software.
 
-And compatible with **Internet Explorer**, **Microsoft Edge**, **Firefox** and other browsers
+And compatible with **Internet Explorer**, **Microsoft Edge**, **Firefox** and other browsers.
 
 ## Requirement
 
