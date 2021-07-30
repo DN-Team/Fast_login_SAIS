@@ -30,7 +30,7 @@ $ pip install -r requirements.txt
 
 1. Edit config.ini
 2. Open the folder you want to use
-3.```$ python login.py```
+3. ```$ python login.py```
 
 ## License
 
