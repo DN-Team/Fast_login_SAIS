@@ -4,7 +4,7 @@ DO NOT EDIT UNLESS YOU ARE SURE THAT YOU KNOW WHAT YOU ARE DOING
 '''
 import selenium
 from selenium import webdriver
-import configparser
+import configparser, sys
 
 config = configparser.ConfigParser()
 config.read("..\\config.ini")
@@ -34,4 +34,4 @@ def login():
 
 if __name__ == '__main__':
     login()
-    close()
+    sys.exit(0)
