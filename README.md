@@ -31,7 +31,9 @@ $ pip install -r requirements.txt
 1. Edit config.ini
 2. Open the folder you want to use
 3. ```$ python login.py```
+
 or
+
 You can also download the exe file  [here](https://github.com/DN-Team/Fast_login_SAIS/releases/).
 
 ## License
